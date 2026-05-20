@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  width: 100%;
+  min-height: 100vh;
+  background: linear-gradient(135deg, #cfe95c, #00ff9d);
+  padding: 15px;
+  place-items: center;
+}
+.app {
+  width: 100%;
+  max-width: 550px;
+  background-color: #ffffff;
+  margin: 100px auto 20px;
+  padding: 40px 30px 70px;
+  border-radius: 10px;
+}
+.userArea {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #b7f1db;
+  border-radius: 30px;
+  padding-left: 20px;
+  margin-bottom: 25px;
+}
+#usrName {
+  flex: 1;
+  border: none;
+  outline: none;
+  border-radius: 20px;
+  background: transparent;
+  padding: 10px;
+  font-weight: 14px;
+}
+
+.btnsbmt {
+  border: none;
+  outline: none;
+  padding: 16px 50px;
+  background-color: #0fac6f;
+  color: #ffffff;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 40px;
+}
+
+.dsplyGrtng {
+  color: #0fac6f;
+}
