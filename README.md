@@ -3,11 +3,9 @@
 ```markdown
 # Interactive Greeting App
 
-```html
-<img src="https://img.shields.io/badge/status-completed-brightgreen" alt="Status">
-<img src="https://img.shields.io/badge/level-beginner-yellow" alt="Level">
+![Status](https://img.shields.io/badge/status-completed-brightgreen)
 
-```
+![Level](https://img.shields.io/badge/level-beginner-yellow)
 
 ## 📋 Description
 
