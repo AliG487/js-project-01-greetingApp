@@ -1,10 +1,6 @@
-### Project 1: Interactive Greeting App
-
-```markdown
 # Interactive Greeting App
 
 ![Status](https://img.shields.io/badge/status-completed-brightgreen)
-
 ![Level](https://img.shields.io/badge/level-beginner-yellow)
 
 ## 📋 Description
@@ -28,17 +24,19 @@ A simple, interactive greeting application that takes a user's name and displays
 - **CSS3** - Styling
 - **Vanilla JavaScript** - DOM manipulation and logic
 
-## 📸 Screenshot
+## 📸 Screenshots
 
-![Screenshot](images/Screenshot-1.png)
-![Screenshot](images/Screenshot-2.png)
-```
+![Screenshot 1](images/Screenshot-1.png)
+
+![Screenshot 2](images/Screenshot-2.png)
 
 ## 🚀 Quick Start
 
 ```bash
 # Clone the repository
 git clone https://github.com/AliG487/js-project-01-greetingApp
+
+# Navigate to project folder
 cd js-project-01-greetingApp
 
 # Open in browser
@@ -74,7 +72,7 @@ python -m http.server 8000
 
 ## 🔄 Challenges Faced
 
-**Challenge**: Handling empty input gracefully
+### Challenge: Handling empty input gracefully
 
 ```javascript
 const name = nameInput.value.trim()
@@ -85,11 +83,12 @@ if (name === "") {
 }
 ```
 
-**Challenge**: Making greeting change based on time of day
+### Challenge: Making greeting change based on time of day
 
 ```javascript
 function messageGen() {
   const hour = new Date().getHours()
+
   if (hour >= 5 && hour < 12) {
     return "Good Morning"
   } else if (hour >= 12 && hour < 17) {
@@ -145,7 +144,6 @@ MIT License - Feel free to use this project!
 **Gohar Ali**
 
 - GitHub: [@AliG487](https://github.com/AliG487)
-
 - Email: engr.ali487@gmail.com
 
 ---
