@@ -1,6 +1,6 @@
 ### Project 1: Interactive Greeting App
 
-```markdown
+````markdown
 # Interactive Greeting App
 
 ![Status](https://img.shields.io/badge/status-completed-brightgreen)
@@ -27,12 +27,12 @@ A simple, interactive greeting application that takes a user's name and displays
 - **CSS3** - Styling
 - **Vanilla JavaScript** - DOM manipulation and logic
 
+```md id="j7v2pk"
 ## 📸 Screenshot
+
+![Screenshot](images/Screenshot-1.png)
+![Screenshot](images/Screenshot-2.png)
 ```
-
-![Screenshot](images/Screenshot-1.png).
-![Screenshot](images/Screenshot-2.png).
-
 ````
 
 ## 🚀 Quick Start
@@ -52,7 +52,7 @@ python -m http.server 8000
 
 # Method 3: VS Code Live Server
 # Right-click index.html → Open with Live Server
-````
+```
 
 ## 📖 How to Use
 
