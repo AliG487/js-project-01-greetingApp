@@ -3,7 +3,9 @@
 ````markdown
 # Interactive Greeting App
 
+
 ![Status](https://img.shields.io/badge/status-completed-brightgreen)
+
 ![Level](https://img.shields.io/badge/level-beginner-yellow)
 
 ## 📋 Description
