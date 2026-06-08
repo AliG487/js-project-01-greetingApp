@@ -26,9 +26,9 @@ A simple, interactive greeting application that takes a user's name and displays
 
 ## 📸 Screenshots
 
-![Screenshot 1](images/screenshot-1.png)
+![Screenshot 1](images/screenshot-a.png)
 
-![Screenshot 2](images/screenshot-2.png)
+![Screenshot 2](images/screenshot-b.png)
 
 ## 🚀 Quick Start
 
